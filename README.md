@@ -2,7 +2,7 @@
 
 hello! i am **alexandra borda (sapphicera)** and i'm a huge fan of all things tech. keyboard enthusiast, pc builder, sci-fi fan (beware roombas!). 
 
-✨ bfa in game design/interactive development (scad) / certificate in full-stack development (actualize) / k-12 coding instructor (id) ✨
+✨ bfa in game design (scad) / certificate in full-stack development (actualize) / k-12 coding instructor (id) ✨
 
 some game development work: https://sapphicera.com/
 
