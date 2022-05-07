@@ -1,4 +1,3 @@
-### Alexandra Borda (Sapphicera)'s Repo
 ## Full-Stack Developer / Software Engineer / Game Developer 
 
 hello! i am **alexandra borda (sapphicera)** and i'm a huge fan of all things tech. keyboard enthusiast, pc builder, sci-fi fan (beware roombas!). 
