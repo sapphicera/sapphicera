@@ -1,6 +1,6 @@
 ## Full-Stack Developer / Software Engineer / Game Developer 
 
-hello! i am **alexandra borda (sapphicera)** and i'm a fan of all things tech. keyboard enthusiast, pc builder, sci-fi fan (beware roombas!). 
+hello! i am **alexandra borda (sapphicera)** and i'm a fan of all things tech. keyboard enthusiast, pc builder, sci-fi fan. 
 
 ✨ bfa in game design (scad) / certificate in full-stack development (actualize) / k-12 coding instructor (id) ✨
 
