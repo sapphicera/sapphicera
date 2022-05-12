@@ -10,4 +10,4 @@ hello! i am **alexandra borda (sapphicera)** and i'm a fan of all things tech. k
 
 - 📫 **game dev tools**: unreal engine 4, autodesk maya (model/basic anim), 3ds max, headus uv, substance designer/painter, basic rigging, visual scripting (blueprinting + basic c++), godot, unity
 
-some game development work: https://sapphicera.com/
+VIEW SOME OF MY GAME DEVELOPMENT WORK HERE: https://sapphicera.com/
