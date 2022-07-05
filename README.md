@@ -1,6 +1,6 @@
 ## Full-Stack Software Engineer & Game Developer 
 
-hello! i am **alexandra borda (sapphicera)** and i'm a fan of all things tech. keyboard enthusiast, pc builder, sci-fi fan. full-stack engineer @ callrail.
+hello! i am **alexandra borda** and i'm a fan of all things tech. keyboard enthusiast, pc builder, sci-fi fan. full-stack engineer @ callrail.
 
 ✨ bfa in game design (scad) / bootcamp graduate (actualize) / k-12 coding instructor (id) ✨
 
